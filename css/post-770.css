@@ -1,0 +1,16 @@
+.elementor-770 .elementor-element.elementor-element-9908605{--display:flex;--min-height:100vh;--background-transition:0.3s;--padding-top:70px;--padding-bottom:30px;--padding-left:30px;--padding-right:30px;}.elementor-770 .elementor-element.elementor-element-9908605:not(.elementor-motion-effects-element-type-background), .elementor-770 .elementor-element.elementor-element-9908605 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#141414;}.elementor-770 .elementor-element.elementor-element-9908605, .elementor-770 .elementor-element.elementor-element-9908605::before{--border-transition:0.3s;}.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu .elementor-item{font-family:"Headlines", Sans-serif;font-weight:600;}.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item{color:#FCFCFC;fill:#FCFCFC;}.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item:focus{color:#FFED64;fill:#FFED64;}.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFED64;}#elementor-popup-modal-770 .dialog-message{width:404px;height:auto;}#elementor-popup-modal-770{justify-content:flex-start;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-770 .dialog-close-button{display:flex;}#elementor-popup-modal-770 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-770 .dialog-close-button i{color:#FFFFFF;}#elementor-popup-modal-770 .dialog-close-button svg{fill:#FFFFFF;}@media(max-width:767px){.elementor-770 .elementor-element.elementor-element-9908605{--padding-top:70px;--padding-bottom:25px;--padding-left:15px;--padding-right:15px;}.elementor-770 .elementor-element.elementor-element-5749062 .elementor-nav-menu .elementor-item{font-size:20px;}#elementor-popup-modal-770 .dialog-message{width:339px;}#elementor-popup-modal-770 .dialog-close-button{font-size:28px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Headlines';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Starjedi.eot');
+	src: url('../fonts/Starjedi.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Starjedi.woff2') format('woff2'),
+		url('../fonts/Starjedi.woff') format('woff'),
+		url('../fonts/Starjedi.ttf') format('truetype'),
+		url('../fonts/Starjedi.svg#Headlines') format('svg');
+}
+/* End Custom Fonts CSS */
